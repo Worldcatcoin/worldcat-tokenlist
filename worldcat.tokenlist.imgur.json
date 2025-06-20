@@ -1,0 +1,24 @@
+{
+  "name": "WorldCat Token List",
+  "timestamp": "2025-06-20T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "tokens": [
+    {
+      "chainId": 42766,
+      "address": "0x6770A7133bD0d74f95e4c9e9B7735bb4cd5653A6",
+      "name": "World Cat",
+      "symbol": "World Cat",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/YZ3Wc8v.png"
+    }
+  ],
+  "keywords": [
+    "worldcat",
+    "meme",
+    "cat"
+  ]
+}
